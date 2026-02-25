@@ -1,2 +1,2 @@
-# Enterprise_Knowledge_Assistant
+# EKA
 AI assistant that ingests enterprise documents (PDF, CSV, Web URLs) and answers contextual queries with citations, cost tracking, and evaluation metrics.
